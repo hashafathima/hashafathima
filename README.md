@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Your Name
 
-<!--
-**hashafathima/hashafathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I am a Full Stack Developer and Computer Science student passionate about building modern, reliable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Full Stack Developer
+- Computer Science Student
+- Interested in Web Development and Software Engineering
+- Continuously learning and improving my technical skills
+
+## Skills
+
+- Frontend Development
+- Backend Development
+- Database Management
+- Git & GitHub
+
+## Currently Learning
+
+- Advanced Full Stack Development
+- Modern Web Technologies
+
+## Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
